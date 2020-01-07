@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "404620928458",
+    "firebase_url": "https://chat-6902b.firebaseio.com",
+    "project_id": "chat-6902b",
+    "storage_bucket": "chat-6902b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404620928458:android:39425afd613e6a8f5fdb33",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404620928458-fkol4daahlv5d4unaqi5u96jrknrje4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANKQHON8BB-IAG0u7fqjHKU0ln4FHE1VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404620928458-fkol4daahlv5d4unaqi5u96jrknrje4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404620928458:android:35ed51df15ca0ae25fdb33",
+        "android_client_info": {
+          "package_name": "com.skylite.iRabwah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404620928458-fkol4daahlv5d4unaqi5u96jrknrje4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANKQHON8BB-IAG0u7fqjHKU0ln4FHE1VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404620928458-fkol4daahlv5d4unaqi5u96jrknrje4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
