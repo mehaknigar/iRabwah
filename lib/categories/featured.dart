@@ -49,7 +49,7 @@ class _FeaturedState extends State<Featured> {
           backgroundColor: Colors.red,
           bottom: _searchBar(),
         ),
-        body: _notesForDisplay.length == null
+        body: _notesForDisplay.length == 0
                       ? Center(
                           child: CircularProgressIndicator(),
                         )

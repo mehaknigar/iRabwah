@@ -48,7 +48,11 @@ class _GiftState extends State<Gift> {
            bottom: _searchBar(),
          
         ),
-        body: GridView.builder(
+        body: _notesForDisplay.length == 0
+                      ? Center(
+                          child: CircularProgressIndicator(),
+                        )
+                      :  GridView.builder(
           gridDelegate:
               SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2),
           itemBuilder: (context, index) {
